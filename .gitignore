@@ -3,4 +3,5 @@
 # ignore everything except .asm
 !.gitignore
 !*.asm
+!*.inc
 !*/
